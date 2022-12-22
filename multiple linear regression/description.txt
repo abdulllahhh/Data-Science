@@ -1,3 +1,0 @@
-this is my code trying to implement multiple liner regression algorithm
-there is a jupyter notebook file and .py file (to work on spyder)
-andrew ng course Supervised Machine Learning: Regression and Classification
