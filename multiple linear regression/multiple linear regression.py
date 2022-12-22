@@ -22,11 +22,11 @@ def prediction (w,x,b):
 
 #test
 # get a row from our training data
-x_vec = x[0,:]
+x_vec = X_train[0,:]
 print(f"x_vec shape {x_vec.shape}, x_vec value: {x_vec}")
 
 # make a prediction
-f_wb = prediction(w,x_vec, b)
+f_wb = prediction(w_initial,x_vec, b_initial)
 print( f_wb)
 
 
